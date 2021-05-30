@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix='/'>
+    <file>images/notify_theme.jpg</file>
+    <file>images/main_theme.jpg</file>
+<file>images/theme.jpg</file>
+</qresource>
+</RCC>
